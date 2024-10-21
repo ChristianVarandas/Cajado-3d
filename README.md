@@ -16,3 +16,6 @@ Manipulação de Auras
 Técnicas de barreiras
 Esferas Yin Yang
 O cajado seria um ótima adição ao repertório dela, sendo capaz de executar magias para exterminar Yokais
+
+# Documentação no Google Docs
+https://docs.google.com/document/d/1YsU5_MFq7ewCzGER63Vx8awCOzFdCbshgF42ZP6eXQI/edit?tab=t.0
